@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Viva</string>
+
+    <string name="product_list">Product List</string>
+    <string name="product_details">Product Details</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+
+</resources>
